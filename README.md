@@ -10,7 +10,7 @@ Assignment for obligatory Databases course for 2nd year of Computer Science. Dat
 - see highest rated recipes,
 - add recipe,
 - add ingredient,
-- 
+
 ![](https://github.com/FogInTheFrog/Intelligent-cookbook/blob/main/cookbook_main_page.png)
 ![](https://github.com/FogInTheFrog/Intelligent-cookbook/blob/main/recipe_1.png)
 ![](https://github.com/FogInTheFrog/Intelligent-cookbook/blob/main/select_by_nutrition_info.png)
